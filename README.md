@@ -1,2 +1,9 @@
-# node-project-seed
-when you start a new node project or front-end project, what you need is in here
+# 前后端分离方案之前端
+目标:
+1.代码格式可控,编码风格统一规范
+2.浏览器实时刷新,支持css注入,多屏幕同步刷新页面
+3.一键代码打包成可以和后台结合的目录(压缩,合并,发布)
+4.mock数据动态化,拦截http请求,形成完整前端黑盒
+5.自动联调后端接口,本地数据,远程数据自动对比数据格式
+6.轻松解决跨域请求,node做请求代理
+7.灵活可控 完全免费开源

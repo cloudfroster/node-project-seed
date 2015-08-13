@@ -1,0 +1,27 @@
+# project-specific
+build
+
+# OS and IDE
+.emacs*
+.c9
+*.flymake
+*~
+.#*
+.idea
+*.sublime-*
+
+# bower
+bower_components
+public/bower
+
+# npm
+node_modules
+npm-debug.log
+
+# grunt & gulp
+.grunt
+.gulp
+
+# gradle
+.gradle
+.htaccess
